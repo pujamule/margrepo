@@ -1,1 +1,2 @@
 git one status
+all is ok
